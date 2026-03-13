@@ -2,12 +2,12 @@
 //  NexusStudy — app.js
 //
 //  👇 COLOQUE SUA CHAVE OPENROUTER AQUI:
-const API_KEY = "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";
+const API_KEY = "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";
 //
 //  Obtenha sua chave gratuita em: https://openrouter.ai/keys
 // ============================================================
 
-const MODEL    = "z-ai/glm-4.5-air:free";
+const MODEL    = "stepfun/step-3.5-flash:free";
 const ENDPOINT = "https://openrouter.ai/api/v1/chat/completions";
 const REFERER  = "https://pandorax-arch.github.io/NexusStudy/";
 const APP_NAME = "NexusStudy";
